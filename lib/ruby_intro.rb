@@ -108,9 +108,8 @@ class BookInStock
    
 end
 
+puts sum [1,3,4,5,6]
 
 
 
-puts sum_to_n? [2,4,8,6], 12
 
-puts starts_with_consonant? "version"
